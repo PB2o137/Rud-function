@@ -30,13 +30,6 @@ For any computable function `f`, there exists `n` such that `VSBBB(n) > f(n)`: (
 
 `VSBBB` is a **component** of the **Rud function**: `Rud(n) = [CBB, CBB, (CBB), (CBB)]`, where `CBB` is built from `VSBBB` via ordinals and self-application.
 
-## Sources
-
-- Rado, T. (1962). "On Non‑Computable Functions". *Bell System Technical Journal*.
-- Rayo, A. (2007). "A Large Number". *MIT Philosophy Department*.
-- Googology Wiki. "Fast-growing hierarchy".
-- Standard ordinal arithmetic: `ω^n = lim(k→∞) ω^(n-1) · k`.
-
 ## License
 
 This work is dedicated to the public domain (CC0). Use freely, but please credit the author when citing.
